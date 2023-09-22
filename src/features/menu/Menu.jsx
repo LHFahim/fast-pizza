@@ -4,7 +4,6 @@ import MenuItem from "../menu/MenuItem";
 
 function Menu() {
   const menu = useLoaderData();
-  console.log("🚀 ~ file: Menu.jsx:6 ~ Menu ~ menu:", menu);
 
   return (
     <ul>
